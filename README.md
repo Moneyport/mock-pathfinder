@@ -1,4 +1,12 @@
-# mock-pathfinder
+# [DEPRECATED] mock-pathfinder
+
+## Deprecation Notice
+
+The mock-pathfinder service was deprecated as of November 2019. This service is no longer maintained, and is no longer referenced by any releases of Mojaloop.
+
+For a list of active Mojaloop repos, please refer to [Repo Details](https://mojaloop.io/documentation/repositories/) section of the Mojaloop documentation.
+
+## About
 A mock PathFinder server for development and testing. 
 
 The server has two different endpoints, one that supports the PathFinder Query API over DNS, and one that supports the PathFinder Provisioning API over SOAP.
